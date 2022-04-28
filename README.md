@@ -1,6 +1,6 @@
 # atm_consultoria
 
-A new Flutter project.
+Fourth app developed along the course. Proposal: learn about how to navigate between screens.
 
 ## Getting Started
 
